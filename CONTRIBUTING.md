@@ -144,15 +144,13 @@ For coding, you can use whatever you want, but [Visual Studio](https://visualstu
 The art style guide recommends using **Blender** for 3D models, but as long as the look and performance match the existing assets, any 3D modeling tool is allowed.
 
 To get a hold of the project, you need **git client**. Git is the software that manages the source. GitHub is the website that we use to host it. Some of the popular options are:
- * [GitHub Desktop](https://desktop.github.com/)
+ * [GitHub Desktop](https://desktop.github.com/), recommended for beginners
  * [Sourcetree](https://www.sourcetreeapp.com/)
  * [Smart Git](https://www.syntevo.com/smartgit/)
  * [Git Kraken](https://www.gitkraken.com/)
  * [Git CLI](https://git-scm.com/), if you know what you're doing
  
-Regardless of what client you use, we recommend installing the latest version of git separately, to make sure you have all the latest features, specifically LFS.
-
-For many binary and large files, the repository uses **Git LFS**, which is a separate module that slightly more efficiently stores binary files, such that they don't clog our pipes and make git slow. LFS is installed with the latest version of git by default, so if you experience issues with it, try downloading the latest version of git first.
+Regardless of what client you use, we recommend installing the latest version of git separately, to make sure you have all the latest features.
 
 Once you have your tools in order, you should fork this repository on GitHub, using the Fork button on this page. This naturally requires a GitHub account. You will commit your changes to that repository and make a [pull request](#pull-requests) to merge it into our repository.
 
