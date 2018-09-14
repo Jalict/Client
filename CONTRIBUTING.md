@@ -60,7 +60,7 @@ Not to mention the occupational hazards of working in space, such as decompressi
 
 ### Game Design Document
 
-Someone needs to link the game design document here.
+[Game Design Document](https://docs.google.com/document/d/1JDBsxw9s7O-fHgvJJ0jKkyinKPG2pSRT9pFDXNp9GUk/edit)
 
 ### Code Maintainers
 
